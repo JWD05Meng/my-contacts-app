@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header-style {
+  border: 2px solid red;
+}
+
+.footer-style {
+  border: 2px solid green;
+}
+
+.card-style {
+  /* border: 2px solid blue; */
+  width: 20vw;
+}
+
+.card-style img {
+  width: 100%;
+}
+

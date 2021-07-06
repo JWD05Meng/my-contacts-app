@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9020f5ba.chunk.css",
-    "main.js": "/static/js/main.50c9fe17.chunk.js",
-    "main.js.map": "/static/js/main.50c9fe17.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.48ee398c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.48ee398c.js.map",
-    "static/js/2.bdb2a0fa.chunk.js": "/static/js/2.bdb2a0fa.chunk.js",
-    "static/js/2.bdb2a0fa.chunk.js.map": "/static/js/2.bdb2a0fa.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9020f5ba.chunk.css.map": "/static/css/main.9020f5ba.chunk.css.map",
-    "static/js/2.bdb2a0fa.chunk.js.LICENSE.txt": "/static/js/2.bdb2a0fa.chunk.js.LICENSE.txt"
+    "main.css": "/my-contacts-app/static/css/main.9020f5ba.chunk.css",
+    "main.js": "/my-contacts-app/static/js/main.50c9fe17.chunk.js",
+    "main.js.map": "/my-contacts-app/static/js/main.50c9fe17.chunk.js.map",
+    "runtime-main.js": "/my-contacts-app/static/js/runtime-main.581da0ee.js",
+    "runtime-main.js.map": "/my-contacts-app/static/js/runtime-main.581da0ee.js.map",
+    "static/js/2.bdb2a0fa.chunk.js": "/my-contacts-app/static/js/2.bdb2a0fa.chunk.js",
+    "static/js/2.bdb2a0fa.chunk.js.map": "/my-contacts-app/static/js/2.bdb2a0fa.chunk.js.map",
+    "index.html": "/my-contacts-app/index.html",
+    "static/css/main.9020f5ba.chunk.css.map": "/my-contacts-app/static/css/main.9020f5ba.chunk.css.map",
+    "static/js/2.bdb2a0fa.chunk.js.LICENSE.txt": "/my-contacts-app/static/js/2.bdb2a0fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48ee398c.js",
+    "static/js/runtime-main.581da0ee.js",
     "static/js/2.bdb2a0fa.chunk.js",
     "static/css/main.9020f5ba.chunk.css",
     "static/js/main.50c9fe17.chunk.js"
